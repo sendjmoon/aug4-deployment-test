@@ -27,7 +27,8 @@
     "gulp-eslint": "2.0.0",
     "gulp-mocha": "2.2.0",
     "gulp-watch": "4.3.6",
-    "mocha": "2.5.3"
+    "mocha": "2.5.3",
+    "travis": "^0.1.1"
   },
   "dependencies": {
     "body-parser": "1.15.1",
